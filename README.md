@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate developer, always eager to learn 
 
 ## 🛠️ Tools & Technologies
 - **Languages**: Python, JavaScript, TypeScript, Java, C++
-- **Frameworks**: React, Node.js, Django
+- **Frameworks**: React, Node.js, Django; Rails on Ruby
 - **DevOps**: Docker, Kubernetes, GitHub Actions
 - **Databases**: PostgreSQL, MongoDB, SQLite
 - **Cloud**: AWS, Azure, Google Cloud
