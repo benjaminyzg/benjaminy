@@ -26,9 +26,9 @@ Welcome to my GitHub profile! I'm a passionate developer, always eager to learn 
 ## 🌐 How to Reach Me
 - 📫 Email: [benjamin.yong.sg@gmail.com](mailto:benjamin,yong.sg@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/yongbenjamin](https://linkedin.com/in/yongbenjamin)
-
+- 
 ---
 
-⭐️ **Fun Fact**: I'm a coffee enthusiast ☕ and love exploring new cafes around the world!
+⭐️ **Fun Fact**: I'm a coffee enthusiast ☕ and love exploring new cafes and travelling around the world!
 
 Thanks for stopping by! Don't forget to leave a ⭐️ on my repositories if you find them interesting!
