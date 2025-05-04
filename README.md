@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer, always eager to learn 
 
 ## 💡 Interests
 - Artificial Intelligence
-- Decentralized Applications (DApps)
+- Machine Learning Model
 - Full-Stack Development
 - Open Source Collaboration
 
