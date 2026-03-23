@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate developer, always eager to learn 
 ![Benjamin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=benjaminyzg&show_icons=true&theme=radical)
 
 ## 🌐 How to Reach Me
-- 📫 Email: [benjamin.yong.sg@gmail.com](mailto:benjamin,yong.sg@gmail.com)
+- 📫 Email: [hello@benjaminy.com](mailto:hello@benjaminy.com)
 - 💼 LinkedIn: [linkedin.com/in/yongbenjamin](https://linkedin.com/in/yongbenjamin)
 - 
 ---
