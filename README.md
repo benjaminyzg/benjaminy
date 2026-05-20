@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer, always eager to learn 
 
 ## 💡 Interests
 - Artificial Intelligence
-- Machine Learning Model
+- Machine Learning Model (i.e. time-series modelling)
 - Full-Stack Development
 - Open Source Collaboration
 
