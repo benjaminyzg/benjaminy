@@ -19,6 +19,7 @@ Welcome to my GitHub profile! I'm a passionate developer, always eager to learn 
 - **DevOps**: Docker, Kubernetes, GitHub Actions
 - **Databases**: PostgreSQL, MongoDB, SQLite
 - **Cloud**: AWS, Azure, Google Cloud
+- **Knowledge-Base Management**: Confluence; Wiki
 
 ## 📈 GitHub Stats
 ![Benjamin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=benjaminyzg&show_icons=true&theme=radical)
